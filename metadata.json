@@ -1,0 +1,8 @@
+{
+  "name": "SH3RiF AI HUB MVP",
+  "description": "A high-end, futuristic MVP website for SH3RiF AI HUB, featuring AI, cybersecurity, and automation services for startups and founders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
